@@ -6,7 +6,7 @@
 - :zap: Learning [Symfony][symfony].
 - :rocket: 2021 Goals: Contribute more to Open Source projects
 
-### Tools to learn deeper:
+### Languages and Tools I use:
 <img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
 <img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
 <img align="left" alt="PHP" width="26px" src="https://www.pngmart.com/files/7/PHP-PNG-File.png" />
@@ -18,7 +18,7 @@
 
 <br />
 
-### Tools to learn:
+### Languages and Tools to learn:
 <img align="left" alt="Golang" width="16px" src="https://camo.githubusercontent.com/94761affed6454156a526a0fcab454ed4a432d9472087a9d330598a38ffe56cd/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67" />
 <img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3629020-3030245.png" />
