@@ -6,7 +6,7 @@
 - :zap: Learning [Symfony][symfony].
 - :rocket: 2021 Goals: Contribute more to Open Source projects
 
-### Languages and Tools I use:
+### Tools I use:
 <img align="left" alt="Laravel" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Laravel.png" />
 <img align="left" alt="Symfony" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Symfony.png" />
 <img align="left" alt="PHP" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/PHP.png" />
@@ -18,7 +18,7 @@
 
 <br />
 
-### Languages and Tools to learn:
+### Tools to learn:
 <img align="left" alt="Golang" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Golang.png" />
 <img align="left" alt="PostgreSQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/PostgreSQL.png" />
 <img align="left" alt="GraphQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/GraphQL.png" />
@@ -30,11 +30,11 @@
 <br />
 
 ### How to reach me:
-[<img align="left" alt="SMhdHsn | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-[<img align="left" alt="SMhdHsn | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="SMhdHsn | Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
+[<img align="left" alt="SMhdHsn | LinkedIn" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Linkedin.png" />][linkedin]
+[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Telegram.png" />][telegram]
+[<img align="left" alt="SMhdHsn | Twitter" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Twitter.png" />][twitter]
+[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Instagram.png" />][instagram]
+[<img align="left" alt="SMhdHsn | Gmail" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Gmail.png" />][gmail]
 
 [linkedin]: https://www.linkedin.com/in/mahdi-hasani-532aa0197
 [instagram]: https://www.instagram.com/SMhdHsn
