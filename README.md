@@ -1,5 +1,4 @@
 ### Hi there 👋
-#### Mahdi speaking:
 
 - :fire: Currently working at [HiTrav][hitrav].
 - :zap: Learning [Symfony][symfony].
