@@ -30,11 +30,11 @@
 <br />
 
 ### How to reach me:
-[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Instagram.png" />][instagram]
-[<img align="left" alt="SMhdHsn | LinkedIn" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Linkedin.png" />][linkedin]
-[<img align="left" alt="SMhdHsn | Instagram" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Telegram.png" />][telegram]
-[<img align="left" alt="SMhdHsn | Gmail" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Gmail.png" />][gmail]
-[<img align="left" alt="SMhdHsn | Twitter" width="22px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Twitter.png" />][twitter]
+[<img align="left" alt="SMhdHsn | Instagram" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Instagram.png" />][instagram]
+[<img align="left" alt="SMhdHsn | LinkedIn" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Linkedin.png" />][linkedin]
+[<img align="left" alt="SMhdHsn | Instagram" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Telegram.png" />][telegram]
+[<img align="left" alt="SMhdHsn | Gmail" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Gmail.png" />][gmail]
+[<img align="left" alt="SMhdHsn | Twitter" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Twitter.png" />][twitter]
 
 [linkedin]: https://www.linkedin.com/in/mahdi-hasani-532aa0197
 [instagram]: https://www.instagram.com/SMhdHsn
