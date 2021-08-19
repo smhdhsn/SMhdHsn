@@ -7,21 +7,25 @@
 - :rocket: 2021 Goals: Contribute more to Open Source projects
 
 ### Languages and Tools I use:
-<img align="left" alt="Laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" />
-<img align="left" alt="Symfony" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/symfony/symfony.png" />
-<img align="left" alt="PHP" width="26px" src="https://www.pngmart.com/files/7/PHP-PNG-File.png" />
-<img align="left" alt="MySQL" width="26px" src="https://user-images.githubusercontent.com/59286285/130093841-bcae72be-999e-43fc-a392-f04dde1db585.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png" />
-<img align="left" alt="Terminal" width="26px" src="https://icon-library.com/images/terminal-icon-png/terminal-icon-png-0.jpg" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Laravel" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Laravel.png" />
+<img align="left" alt="Symfony" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Symfony.png" />
+<img align="left" alt="PHP" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/PHP.png" />
+<img align="left" alt="MySQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/MySQL.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Code.png" />
+<img align="left" alt="Redis" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Redis.png" />
+<img align="left" alt="Git" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Git.png" />
+<img align="left" alt="Terminal" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Terminal.png" />
 
 <br />
 
 ### Languages and Tools to learn:
-<img align="left" alt="Golang" width="16px" src="https://camo.githubusercontent.com/94761affed6454156a526a0fcab454ed4a432d9472087a9d330598a38ffe56cd/68747470733a2f2f7261772e6769746875622e636f6d2f676f6c616e672d73616d706c65732f676f706865722d766563746f722f6d61737465722f676f706865722e706e67" />
-<img align="left" alt="GraphQL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/mongodb-3629020-3030245.png" />
+<img align="left" alt="Golang" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Golang.png" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/PostgreSQL.png" />
+<img align="left" alt="GraphQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/GraphQL.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/MongoDB.png" />
+<img align="left" alt="Jenkins" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Jenkins.png" />
+<img align="left" alt="RabbitMQ" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/RabbitMQ.png" />
+<img align="left" alt="Docker" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Docker.png" />
 
 <br />
 
