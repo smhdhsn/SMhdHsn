@@ -11,9 +11,9 @@
 <img align="left" alt="Symfony" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Symfony.png" />
 <img align="left" alt="PHP" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/PHP.png" />
 <img align="left" alt="MySQL" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/MySQL.png" />
-<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Code.png" />
 <img align="left" alt="Redis" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Redis.png" />
 <img align="left" alt="Git" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Git.png" />
+<img align="left" alt="Visual Studio Code" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Code.png" />
 <img align="left" alt="Terminal" width="30px" src="https://github.com/SMhdHsn/SMhdHsn/blob/master/Assets/Images/Terminal.png" />
 
 <br />
