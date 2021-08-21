@@ -37,7 +37,7 @@ class About extends Me
         ];
     }
     
-    public function setToolsToLearn(): array
+    public function setKnowledgeToGain(): array
     {
         return [
             PostgreSQL::class,
