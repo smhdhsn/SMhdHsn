@@ -37,7 +37,7 @@ class About extends Me
         ];
     }
     
-    public function setKnowledgeToGain(): array
+    public function getKnowledgeToGain(): array
     {
         return [
             PostgreSQL::class,
