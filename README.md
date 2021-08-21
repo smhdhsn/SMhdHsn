@@ -28,7 +28,7 @@ class About extends Me
     public function getCurrentKnowledge(): array
     {
         return [
-            Php::class,
+            PHP::class,
             Laravel::class,
             Symfony::class,
             MySQL::class,
@@ -40,14 +40,14 @@ class About extends Me
     public function getKnowledgeToGain(): array
     {
         return [
+            GoLang::class,
             PostgreSQL::class,
             RabbitMQ::class,
             GraphQL::class,
             MongoDB::class,
             Jenkins::class,
             Docker::class,
-            Linux::class,
-            Go::class
+            Linux::class
         ];
     }
     
