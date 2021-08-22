@@ -8,7 +8,7 @@ namespace GitHub\SMhdHsn;
  * @location Tehran, Iran
  * @birth 1998-08-23
  */
-class About extends Me
+class About extends Programming implements PSR, SOLID
 {
     public function __construct()
     {
