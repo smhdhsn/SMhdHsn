@@ -37,7 +37,7 @@ class About extends Programming implements PSR, SOLID
         ];
     }
     
-    public function getKnowledgeToGain(): array
+    public function getToDoList(): array
     {
         return [
             GoLang::class,
