@@ -4,7 +4,7 @@
 namespace GitHub\SMhdHsn;
 
 /**
- * @email m2hdtl@gmail.com
+ * @email <m2hdtl@gmail.com>
  * @location Tehran, Iran
  * @birth 1998-08-23
  */
