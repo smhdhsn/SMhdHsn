@@ -14,7 +14,7 @@ class About extends Programming implements PSR, SOLID
     {
         echo 'Hi There !';
     }
-    
+
     public function getCurrentWorkplace(): array
     {
         return [
@@ -36,7 +36,7 @@ class About extends Programming implements PSR, SOLID
             Git::class
         ];
     }
-    
+
     public function getToDoList(): array
     {
         return [
@@ -50,7 +50,7 @@ class About extends Programming implements PSR, SOLID
             Linux::class
         ];
     }
-    
+
     public function getFunFact(): string
     {
         return 'I like my coffee black, just like my Metal.';
