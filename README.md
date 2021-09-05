@@ -55,7 +55,7 @@ class About extends Programming implements PSR, SOLID
     {
         return [
             'I like my coffee black, just like my Metal.',
-            'I get easily distracted by Cats.'
+            'Also I get easily distracted by Cats.'
         ];
     }
 }
