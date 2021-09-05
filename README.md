@@ -25,7 +25,7 @@ class About extends Programming implements PSR, SOLID
         ];
     }
 
-    public function getCurrentKnowledge(): array
+    public function getKnowledgeList(): array
     {
         return [
             PHP::class,
@@ -51,9 +51,12 @@ class About extends Programming implements PSR, SOLID
         ];
     }
 
-    public function getFunFact(): string
+    public function getFunFactList(): array
     {
-        return 'I like my coffee black, just like my Metal.';
+        return [
+            'I like my coffee black, just like my Metal.',
+            'I get easily distracted by by Cats.'
+        ];
     }
 }
 ```
