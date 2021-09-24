@@ -54,8 +54,8 @@ class About extends Programming implements PSR, SOLID
     public function getFunFactList(): array
     {
         return [
-            'I like my coffee black, just like my Metal.',
-            'Also I get easily distracted by Cats.'
+            'I like my coffee black, just like my metal.',
+            'Also I get easily distracted by cats.'
         ];
     }
 }
