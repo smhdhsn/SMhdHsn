@@ -51,11 +51,10 @@ class About extends Programming implements PSR, SOLID
         ];
     }
 
-    public function getFunFactList(): array
+    public function getFunFact(): array
     {
         return [
-            'I like my coffee black, just like my metal.',
-            'Also I get easily distracted by cats.'
+            'There are two ways to write error-free programs; only the third one works!'
         ];
     }
 }
