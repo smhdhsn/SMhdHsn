@@ -25,7 +25,7 @@ class About extends Programming implements PSR, SOLID
         ];
     }
 
-    public function getKnowledgeList(): array
+    public function getKnowledgeStack(): array
     {
         return [
             PHP::class,
@@ -37,7 +37,7 @@ class About extends Programming implements PSR, SOLID
         ];
     }
 
-    public function getToDoList(): array
+    public function getLearningStack(): array
     {
         return [
             GoLang::class,
