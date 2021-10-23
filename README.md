@@ -12,7 +12,7 @@ class About extends Programming implements PSR, SOLID
 {
     public function __construct()
     {
-        echo 'Hi There !';
+        echo 'Hi There!';
     }
 
     public function getCurrentWorkplace(): array
