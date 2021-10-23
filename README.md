@@ -31,7 +31,7 @@ class About extends Programming implements PSR, SOLID
             PHP::class,
             Laravel::class,
             Symfony::class,
-            Lumen::class,
+            Docker::class,
             MySQL::class,
             Redis::class,
             Git::class
@@ -47,7 +47,6 @@ class About extends Programming implements PSR, SOLID
             GraphQL::class,
             MongoDB::class,
             Jenkins::class,
-            Docker::class,
             Linux::class
         ];
     }
