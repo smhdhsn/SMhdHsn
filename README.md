@@ -34,7 +34,6 @@ class About extends Programming implements PSR, SOLID
             Docker::class,
             MySQL::class,
             Redis::class,
-            Nginx::class,
             Git::class
         ];
     }
