@@ -18,10 +18,16 @@ class About extends Programming implements PSR, SOLID
     public function getCurrentWorkplace(): array
     {
         return [
-            'workplace' => [
-                'company' => 'HiTrav',
-                'position' => 'Back-End Developer'         
-            ]
+            'current' => [
+                'company' => 'Snappfood.ir',
+                'position' => 'Back-End Developer',
+            ],
+            'recent' => [
+                [
+                    'company' => 'HiTrav',
+                    'position' => 'Back-End Developer',         
+                ],
+            ],
         ];
     }
 
