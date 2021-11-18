@@ -24,7 +24,7 @@ class About extends Programming implements PSR, SOLID
             ],
             'recent' => [
                 [
-                    'company' => 'HiTrav',
+                    'company' => 'HiTrav.com',
                     'position' => 'Back-End Developer',         
                 ],
             ],
