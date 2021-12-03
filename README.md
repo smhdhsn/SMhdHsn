@@ -53,6 +53,7 @@ class About extends Programming implements PSR, SOLID
             GraphQL::class,
             MongoDB::class,
             Jenkins::class,
+            Nginx::class,
             Linux::class
         ];
     }
