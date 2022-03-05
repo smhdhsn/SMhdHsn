@@ -36,13 +36,16 @@ class About extends Programming implements PSR, SOLID
         return [
             PHP::class,
             GO::class,
+
             Laravel::class,
             Symfony::class,
-            RabbitMQ::class,
-            Docker::class,
+
             MySQL::class,
             Redis::class,
-            Git::class
+
+            RabbitMQ::class,
+            Docker::class,
+            Git::class            
         ];
     }
 
