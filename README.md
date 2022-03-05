@@ -35,8 +35,10 @@ class About extends Programming implements PSR, SOLID
     {
         return [
             PHP::class,
+            GoLang::class,
             Laravel::class,
             Symfony::class,
+            RabbitMQ::class,
             Docker::class,
             MySQL::class,
             Redis::class,
@@ -47,10 +49,7 @@ class About extends Programming implements PSR, SOLID
     public function getLearningStack(): array
     {
         return [
-            GoLang::class,
             PostgreSQL::class,
-            RabbitMQ::class,
-            GraphQL::class,
             MongoDB::class,
             Jenkins::class,
             Nginx::class,
