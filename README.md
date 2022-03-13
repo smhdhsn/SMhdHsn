@@ -15,7 +15,7 @@ class About extends Programming implements PSR, SOLID
         echo 'Hi There!';
     }
 
-    public function getCurrentWorkplace(): array
+    public function getCareer(): array
     {
         return [
             'current' => [
