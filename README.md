@@ -25,8 +25,10 @@ var whoAmI = map[string]any{
 		"Databases":         {"MySQL", "CassandraDB"},
 		"Caches":            {"Redis"},
 		"Message Queues":    {"RabbitMQ"},
+		"Operating Systems": {"Linux"},
 		"Containerizations": {"Docker"},
-		"Other Tools":       {"Linux", "Git", "Jira"},
+		"Version Controlls": {"Git"},
+		"Other Tools":       {"Jira"},
 	},
 }
 ```
