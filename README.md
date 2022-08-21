@@ -21,7 +21,7 @@ var whoAmI = map[string]any{
 	// This section holds a list of technologies that I've worked with.
 	"Stack": map[string][]string{
 		"Languages":         {"Go", "PHP", "Bash"},
-		"Frameworks":        {"gin-gonic/gin", "gorilla/mux", "symfony/symfony", "laravel/laravel", "laravel/lumen"},
+		"Frameworks":        {"gin-gonic/gin", "gorilla/mux", "symfony/symfony", "laravel/laravel"},
 		"Databases":         {"MySQL", "CassandraDB"},
 		"Caches":            {"Redis"},
 		"Message Queues":    {"RabbitMQ"},
