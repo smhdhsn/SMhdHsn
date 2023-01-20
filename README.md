@@ -8,19 +8,23 @@ var whoAmI = map[string]any{
 
 	// This section holds informaton about my career path.
 	"Career": map[string]map[string]string{
-		"Nov 2021 - Present": {
-			"Company":  "SnappFood.ir",
-			"Position": "Back-End Software Engineer",
+		"Jan 2023 - Present": {
+			"Company":  "Sheypoor.ir",
+			"Position": "Software Engineer",
+		},
+		"Nov 2021 - Jan 2023": {
+			"Company":  "Snappfood.ir",
+			"Position": "Software Engineer",
 		},
 		"Jul 2020 - Nov 2021": {
 			"Company":  "HiTrav.com",
-			"Position": "Back-End Software Engineer",
+			"Position": "Software Engineer",
 		},
 	},
 
 	// This section holds a list of technologies that I've worked with.
 	"Stack": map[string][]string{
-		"Languages":         {"Go", "PHP", "Bash"},
+		"Languages":         {"Go", "Python", "PHP", "Bash"},
 		"Frameworks":        {"gin-gonic/gin", "gorilla/mux", "symfony/symfony", "laravel/laravel"},
 		"Databases":         {"MySQL", "CassandraDB"},
 		"Caches":            {"Redis"},
