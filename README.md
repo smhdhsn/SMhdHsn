@@ -10,7 +10,7 @@ var whoAmI = map[string]any{
 	"Career": map[string]map[string]string{
 		"Jan 2023 - Present": {
 			"Company":  "Sheypoor.ir",
-			"Position": "Software Engineer",
+			"Position": "Senior Software Engineer",
 		},
 		"Nov 2021 - Jan 2023": {
 			"Company":  "Snappfood.ir",
