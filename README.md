@@ -3,7 +3,6 @@ var whoAmI = map[string]any{
 	// This section holds some personal informations about me.
 	"Name":     "Mahdi Hasani",
 	"Email":    "mahdi.hasani.eng@gmail.com",
-	"Location": "Tehran, Iran",
 	"Birth":    "1998-08-23",
 
 	// This section holds informaton about my career path.
