@@ -5,26 +5,6 @@ var whoAmI = map[string]any{
 	"Email":    "mahdi.hasani.eng@gmail.com",
 	"Birth":    "1998-08-23",
 
-	// This section holds informaton about my career path.
-	"Career": map[string]map[string]string{
-		"Jun 2024 - Present": {
-			"Company":  "UrbanSportsClub.com",
-			"Position": "Senior Back End Engineer",
-		},
-		"Jan 2023 - Feb 2024": {
-			"Company":  "Sheypoor.ir",
-			"Position": "Senior Back End Engineer",
-		},
-		"Nov 2021 - Jan 2023": {
-			"Company":  "Snappfood.ir",
-			"Position": "Back End Engineer",
-		},
-		"Jul 2020 - Nov 2021": {
-			"Company":  "HiTrav.com",
-			"Position": "Back End Engineer",
-		},
-	},
-
 	// This section holds a list of technologies that I've worked with.
 	"Stack": map[string][]string{
 		"Languages":         {"Go", "Python", "PHP", "Bash"},
